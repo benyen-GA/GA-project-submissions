@@ -4,9 +4,21 @@
 # Project 4: West Nile Virus Prediction
 
 
-### Problem Statement
+### Introduction
 
-West Nile virus is most commonly spread to humans through infected mosquitos. Around 20% of people who become infected with the virus develop symptoms ranging from a persistent fever, to serious neurological illnesses that can result in death. The City of Chicago and CPHD needs a model that can help them to predict more efficiently and effectively where and when the mosquitos will become virulent so that they can allocate resources towards preventing transmission of this potentially deadly virus. 
+The West Nile virus is primarily transmitted through the bite of infected mosquitoes that have previously bitten infected birds. Birds are considered the primary hosts of the West Nile virus, and infected mosquitoes can transmit the virus from birds to humans and other animals.
+
+The virus was first identified in the West Nile region of Uganda in 1937 and is a member of the Flaviviridae family of viruses, which also includes other well-known viruses such as dengue, yellow fever, and Zika.
+
+While most people infected with the West Nile virus do not experience any symptoms, some may develop a mild illness known as West Nile fever, which can include symptoms such as fever, headache, and body aches. In rare cases, the virus can cause severe neurological illness such as encephalitis or meningitis, which can be fatal.
+
+West Nile virus has been documented in many parts of the world, including Africa, Europe, the Middle East, and North America. In the United States, the virus was first detected in New York City in 1999 and has since spread to other parts of the country.
+
+In the city of Chicago, there have been several outbreaks of the West Nile virus since its first detection in the United States. In 2002, the city experienced a significant epidemic of the virus, with over 260 confirmed cases and 12 deaths reported. Despite efforts to reduce the mosquito population and prevent the spread of the virus, the city has continued to experience sporadic outbreaks in subsequent years.
+
+Certain bird species, such as crows and jays, are particularly vulnerable to West Nile virus infection and are often used as indicators of virus activity in a given area. As the virus is primarily transmitted through the bite of infected mosquitoes, prevention measures such as avoiding mosquito bites and eliminating standing water where mosquitoes breed are important for reducing the risk of infection.
+
+Our job at the Disease And Treatment Agency, division of Societal Cures In Epidemiology and New Creative Engineering (DATA-SCIENCE) would be to build a model that can help them to predict more efficiently and effectively where and when the mosquitos will become virulent so that they can allocate resources towards preventing transmission of this potentially deadly virus.  
 
 ---
 
